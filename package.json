@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "name": "quiz-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Neon <58448036+NeonGamerBot-QK@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js DEVELOPMENT"
+  }
+}
